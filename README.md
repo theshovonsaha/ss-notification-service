@@ -65,7 +65,7 @@ Clients can trigger notifications based on specific events using the triggerNoti
 The service includes middleware to set security headers and handle cookies securely. You can customize these settings according to your application's requirements in the index.js file.
 
 ### Testing
-For testing the notification service, refer to the Notification Test App section below.
+For testing the notification service, refer to the [Notification Test App](https://github.com/theshovonsaha/ss-notification-test-app) section below.
 
 ## License
 
