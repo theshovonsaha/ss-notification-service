@@ -71,4 +71,4 @@ For testing the notification service, refer to the Notification Test App section
 
 The MIT License (MIT)
 
-Copyright (c) 2022 Shovon Saha
+Copyright (c) 2024 Shovon Saha
